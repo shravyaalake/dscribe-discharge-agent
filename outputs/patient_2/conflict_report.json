@@ -1,0 +1,11 @@
+{
+  "status": "completed",
+  "conflicts": [],
+  "review_flags": [
+    {
+      "type": "no_conflict_detected",
+      "message": "No direct conflict was detected among high-confidence structured facts. Low-confidence OCR pages are still excluded from final factual claims.",
+      "severity": "info"
+    }
+  ]
+}

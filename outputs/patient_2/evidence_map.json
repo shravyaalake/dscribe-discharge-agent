@@ -1,0 +1,708 @@
+{
+  "patient_id": null,
+  "source_files": [
+    "patient_2.pdf"
+  ],
+  "facts": {
+    "demographics": [],
+    "admission_discharge_dates": [],
+    "principal_diagnosis": [
+      {
+        "field": "principal_diagnosis",
+        "value": "ACUTE GASTROENTERITIS WITH DEHYDRATION",
+        "source_file": "patient_2.pdf",
+        "page": 1,
+        "source_quote": "1) ACUTE GASTROENTERITIS WITH DEHYDRATION 2) URINARY TRACT INFECTION",
+        "confidence": "high"
+      }
+    ],
+    "secondary_diagnoses": [
+      {
+        "field": "secondary_diagnosis",
+        "value": "URINARY TRACT INFECTION",
+        "source_file": "patient_2.pdf",
+        "page": 1,
+        "source_quote": "1) ACUTE GASTROENTERITIS WITH DEHYDRATION 2) URINARY TRACT INFECTION",
+        "confidence": "high"
+      }
+    ],
+    "history": [
+      {
+        "field": "history",
+        "value": "C/O Multiple episodes of loose stools, 2-3 episodes of vomiting, fatigue since 3 days and fever since yesterday. Initially she was treated at local clinic.",
+        "source_file": "patient_2.pdf",
+        "page": 1,
+        "source_quote": "C/O Multiple episodes of loose stools, 2-3 episodes of vomiting, fatigue since 3 days and fever since yesterday. Initially she was treated at local clinic.",
+        "confidence": "high"
+      }
+    ],
+    "past_history": [
+      {
+        "field": "past_history",
+        "value": "K/C/O Thyroid disorder on treatment.",
+        "source_file": "patient_2.pdf",
+        "page": 1,
+        "source_quote": "K/C/O Thyroid disorder on treatment.",
+        "confidence": "high"
+      }
+    ],
+    "physical_examination": [
+      {
+        "field": "physical_examination",
+        "value": "PR-89/min, BP-130/80 mmHg, RR-20/min, SPO2-98\" at room air. CNS-Conscious Oriented CVS-S1S2(+) RS-B/L NVEBS(+) PA-Soft, non tender",
+        "source_file": "patient_2.pdf",
+        "page": 1,
+        "source_quote": "PR-89/min, BP-130/80 mmHg, RR-20/min, SPO2-98\" at room air. CNS-Conscious Oriented CVS-S1S2(+) RS-B/L NVEBS(+) PA-Soft, non tender",
+        "confidence": "high"
+      }
+    ],
+    "hospital_course": [
+      {
+        "field": "hospital_course",
+        "value": "Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.64me/dl) done was elevated. Serum electrolytes done showed low serum sodium( 128.00mnol/L). Urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited. She was treated with IV fluids,",
+        "source_file": "patient_2.pdf",
+        "page": 1,
+        "source_quote": "Patient presented to us with above mentioned complaints. After evaluation, she was admitted to ward. Initial investigations showed normal CBC, Serum creatinine (1.64me/dl) done was elevated. Serum electrolytes done showed low serum sodium( 128.00mnol/L). Urine routine done showed ketone bodies(+), 10- l2/hpf of pus cells, 13-20/hpf of epithelial cells with presence of bactreia hence urine culture and sensitivity sent- report awaited. She was treated with IV fluids,",
+        "confidence": "high"
+      },
+      {
+        "field": "hospital_course",
+        "value": "IV antibiotics, , 1V PPI's, ['V antiemetics and other supportive measures. USG abdomen and pelvis done showed Grade-I fatty liver changes and mildly edematous part of ascending colon upto the hepatic Mlexure- could represent colitis. Repeat Serum Creatinine(1.17?mg/dl) done was normal. TSH and Free T4 done were normal. Stool routine done showed 2-4/hpf of red blood cells, plenty/hpf of pus cells. Patient was adviced to stay back for further management but attenders not willing to the same, hence being discharged al request with following advice.",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "IV antibiotics, , 1V PPI's, ['V antiemetics and other supportive measures. USG abdomen and pelvis done showed Grade-I fatty liver changes and mildly edematous part of ascending colon upto the hepatic Mlexure- could represent colitis. Repeat Serum Creatinine(1.17?mg/dl) done was normal. TSH and Free T4 done were normal. Stool routine done showed 2-4/hpf of red blood cells, plenty/hpf of pus cells. Patient was adviced to stay back for further management but attenders not willing to the same, hence being discharged al request with following advice.",
+        "confidence": "high"
+      }
+    ],
+    "investigations": [
+      {
+        "field": "investigation",
+        "value": "All results are sample specific, c INVESTIGATION RESULT VALUE UNIT REFERENCE RANGE _i BIOCHEMISTRY REPORT | SERUM CREATININE 0.85 mg/dL 07-44 o BLOOD SUGAR (RBS) 496.00 mg/dl 80 - 140 | SERUM ELECTROLYTES !",
+        "source_file": "patient_2.pdf",
+        "page": 27,
+        "source_quote": "All results are sample specific, c INVESTIGATION RESULT VALUE UNIT REFERENCE RANGE _i BIOCHEMISTRY REPORT | SERUM CREATININE 0.85 mg/dL 07-44 o BLOOD SUGAR (RBS) 496.00 mg/dl 80 - 140 | SERUM ELECTROLYTES !",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "| § ODIUM C2790) mnoliL 138 - 150 | -POTASSIUM(K+) 3.64 mnolL 35-5 | S.CHLORIDE 64.90 mnol/L 90 - 108 “End of Report Pieese correlate laborstory reaulte clinically.",
+        "source_file": "patient_2.pdf",
+        "page": 27,
+        "source_quote": "| § ODIUM C2790) mnoliL 138 - 150 | -POTASSIUM(K+) 3.64 mnolL 35-5 | S.CHLORIDE 64.90 mnol/L 90 - 108 “End of Report Pieese correlate laborstory reaulte clinically.",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "PMESTIGATION 0 CRESULTVALUE- UNIT _eeeew INVESTIGATION IT REFERENCE RANGE CLINICAL PATHOLOGY REPORT URINE ROUTINE Physical Examination URINE PH 55 RUPLOUR PALE YELLOW APPEARANCE SLIGHTLY TURBID SPECIFIC GRAVITY 1.015 Chemical Examination URINE ALBUMIN PRESENT + SUGAR PRESENT 1.5% KETONE BODIES PRESENT ‘an BILE SALT ABSENT BILE PIGMENT ABSENT Microscopic Examination PUS CELLS 4-S/hpf EPITHELIAL CELLS 1-2hpf | PBC\"S ell ni TRITE ABSENT BACTERIA ABSENT impression: AMORPHOUS URATES PRESENT, “End of Report™ Biease correlate laboratory results clinically.",
+        "source_file": "patient_2.pdf",
+        "page": 27,
+        "source_quote": "PMESTIGATION 0 CRESULTVALUE- UNIT _eeeew INVESTIGATION IT REFERENCE RANGE CLINICAL PATHOLOGY REPORT URINE ROUTINE Physical Examination URINE PH 55 RUPLOUR PALE YELLOW APPEARANCE SLIGHTLY TURBID SPECIFIC GRAVITY 1.015 Chemical Examination URINE ALBUMIN PRESENT + SUGAR PRESENT 1.5% KETONE BODIES PRESENT ‘an BILE SALT ABSENT BILE PIGMENT ABSENT Microscopic Examination PUS CELLS 4-S/hpf EPITHELIAL CELLS 1-2hpf | PBC\"S ell ni TRITE ABSENT BACTERIA ABSENT impression: AMORPHOUS URATES PRESENT, “End of Report™ Biease correlate laboratory results clinically.",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "oO Tt OE a E* ir, hg i et ng ee INVESTIGATION RESULT VALUE UNIT REFERENCE RANGE BIOCHEMISTRY REPORT ABG(Arterial Blood Gas) WITH LACTATE PH 13a pco2 32.00 bo 72 Sodium [Na+] 114 Potassium [K ] 2.85 Chloride [CI-] 83 eCALCIUM O74 HCT 6 HAEMOGLOBIN 11.80 $02(C) shi CHCO3 ia BE ae LACTATE nd “End of Report™ ro ws !",
+        "source_file": "patient_2.pdf",
+        "page": 28,
+        "source_quote": "oO Tt OE a E* ir, hg i et ng ee INVESTIGATION RESULT VALUE UNIT REFERENCE RANGE BIOCHEMISTRY REPORT ABG(Arterial Blood Gas) WITH LACTATE PH 13a pco2 32.00 bo 72 Sodium [Na+] 114 Potassium [K ] 2.85 Chloride [CI-] 83 eCALCIUM O74 HCT 6 HAEMOGLOBIN 11.80 $02(C) shi CHCO3 ia BE ae LACTATE nd “End of Report™ ro ws !",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "HAEMATOLOGY REPORT COMPLETE BLOOD COUNT (CBC) HAEMOGLOBIN (HB) 12.0 gmidl ie COUNT 6680 Cells/cumm _EUTROPHILS 181 va LYMPHOCYTES 121 Ho MONOCYTES TS % EOSINOPHILS 0.6 ay, BASOPHILS 0.3 % PLATELET COUNT 1.80 Lakhs/cumm RBC COUNT 4.57 mill/cumm PACKED CELL VOLUME(PCV) 35.3 MCV 16.6 fl MGH 26.3 pg MCHC 33.4 gidl -OW-CV 12.2 Ye MEAN PLATELET VOLUME(MPV) 10.8 fl \"End of Report™™ 13.5 -17.5 4000 - 11000 35 - 66 24-44 3-6 0-6 O-1 1.5 -4.5 4.5-5.9 a7 - 83 80 - 100 25-35 32-36 11.5-14 §.5-12 Please correlate laboratory results clinically.",
+        "source_file": "patient_2.pdf",
+        "page": 28,
+        "source_quote": "HAEMATOLOGY REPORT COMPLETE BLOOD COUNT (CBC) HAEMOGLOBIN (HB) 12.0 gmidl ie COUNT 6680 Cells/cumm _EUTROPHILS 181 va LYMPHOCYTES 121 Ho MONOCYTES TS % EOSINOPHILS 0.6 ay, BASOPHILS 0.3 % PLATELET COUNT 1.80 Lakhs/cumm RBC COUNT 4.57 mill/cumm PACKED CELL VOLUME(PCV) 35.3 MCV 16.6 fl MGH 26.3 pg MCHC 33.4 gidl -OW-CV 12.2 Ye MEAN PLATELET VOLUME(MPV) 10.8 fl \"End of Report™™ 13.5 -17.5 4000 - 11000 35 - 66 24-44 3-6 0-6 O-1 1.5 -4.5 4.5-5.9 a7 - 83 80 - 100 25-35 32-36 11.5-14 §.5-12 Please correlate laboratory results clinically.",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "US6 ABDOMEN 6 PELVIS (BEDSIDE) Liver (17cm) is enlarged in size and shows diffuse grade I fatty infiltration.",
+        "source_file": "patient_2.pdf",
+        "page": 30,
+        "source_quote": "US6 ABDOMEN 6 PELVIS (BEDSIDE) Liver (17cm) is enlarged in size and shows diffuse grade I fatty infiltration.",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "1 Cholelithiasis without cholecystitis.",
+        "source_file": "patient_2.pdf",
+        "page": 30,
+        "source_quote": "1 Cholelithiasis without cholecystitis.",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "Minimal ascites.",
+        "source_file": "patient_2.pdf",
+        "page": 30,
+        "source_quote": "Minimal ascites.",
+        "confidence": "medium"
+      },
+      {
+        "field": "investigation",
+        "value": "Minimal right pleural effusion noted with underlying subsegmental lung IMPRESSI i Mild hepatomegaly with grade | fatty infiltration.",
+        "source_file": "patient_2.pdf",
+        "page": 30,
+        "source_quote": "Minimal right pleural effusion noted with underlying subsegmental lung IMPRESSI i Mild hepatomegaly with grade | fatty infiltration.",
+        "confidence": "medium"
+      }
+    ],
+    "procedures": [],
+    "allergies": [],
+    "discharge_condition": [
+      {
+        "field": "discharge_condition",
+        "value": "Hemodynamically stable",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "Hemodynamically stable",
+        "confidence": "high"
+      }
+    ],
+    "discharge_medications": [
+      {
+        "field": "discharge_medication",
+        "value": "| | TAB. RACIPER 40MG | 1-0-0 7 DAYS",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "| | TAB. RACIPER 40MG | 1-0-0 7 DAYS",
+        "confidence": "low"
+      },
+      {
+        "field": "discharge_medication",
+        "value": "TAB, EMESET 3 DAYS",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "TAB, EMESET 3 DAYS",
+        "confidence": "medium"
+      },
+      {
+        "field": "discharge_medication",
+        "value": "= TAB M STRONG J 1-0-0 IS DAYS",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "= TAB M STRONG J 1-0-0 IS DAYS",
+        "confidence": "medium"
+      },
+      {
+        "field": "discharge_medication",
+        "value": "TAB. ENTR¢ ‘10 -] 3 DAYS",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "TAB. ENTR¢ ‘10 -] 3 DAYS",
+        "confidence": "low"
+      },
+      {
+        "field": "discharge_medication",
+        "value": "Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+        "confidence": "low"
+      }
+    ],
+    "follow_up_instructions": [
+      {
+        "field": "follow_up_instructions",
+        "value": "Urine culture and sensitivity sent- report awaited. Review immediately in case of fever, loose stools, vomiting, fatigue. Review on 09.03. 2026. CBC",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "Urine culture and sensitivity sent- report awaited. Review immediately in case of fever, loose stools, vomiting, fatigue. Review on 09.03. 2026. CBC",
+        "confidence": "high"
+      }
+    ],
+    "pending_results": [
+      {
+        "field": "pending_result",
+        "value": "Urine culture and sensitivity sent - report awaited.",
+        "source_file": "patient_2.pdf",
+        "page": 1,
+        "source_quote": "Urine culture and sensitivity sent- report awaited.",
+        "confidence": "high"
+      },
+      {
+        "field": "pending_result",
+        "value": "Urine culture and sensitivity sent - report awaited.",
+        "source_file": "patient_2.pdf",
+        "page": 2,
+        "source_quote": "Urine culture and sensitivity sent- report awaited.",
+        "confidence": "high"
+      }
+    ]
+  },
+  "review_flags": [
+    {
+      "type": "medication_reconciliation_required",
+      "page": 2,
+      "source_file": "patient_2.pdf",
+      "message": "Admission medication list was not clearly available. Discharge medications should be reconciled by clinician."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 3,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 7,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 8,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR text is very short; page may be unreadable."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 10,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 17,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 17,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 18,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 19,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 20,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 20,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 21,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 21,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 23,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 25,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 35,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR text is very short; page may be unreadable.",
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 37,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 38,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 39,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 42,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 43,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 44,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 46,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 48,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 49,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 50,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 51,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 52,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 54,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 55,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 55,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 57,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "allergy_information_unclear",
+      "page": 57,
+      "source_file": "patient_2.pdf",
+      "message": "Allergy section was detected, but OCR text was unclear. Clinician review required."
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 59,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 60,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 61,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 63,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 64,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR text is very short; page may be unreadable."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 65,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR text is very short; page may be unreadable."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 67,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR text is very short; page may be unreadable.",
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 68,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR text is very short; page may be unreadable."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 69,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "low_confidence_ocr",
+      "page": 70,
+      "source_file": "patient_2.pdf",
+      "message": "Page was not used as a primary evidence source because OCR quality may be low.",
+      "warnings": [
+        "OCR may be low confidence. Handwritten or unclear content should be reviewed by clinician."
+      ]
+    },
+    {
+      "type": "missing_required_field",
+      "field": "demographics",
+      "message": "Patient demographics missing from readable source notes."
+    },
+    {
+      "type": "missing_required_field",
+      "field": "admission_discharge_dates",
+      "message": "Admission and discharge dates missing from readable source notes."
+    },
+    {
+      "type": "missing_required_field",
+      "field": "procedures",
+      "message": "No clear procedure details found in readable source notes."
+    },
+    {
+      "type": "missing_required_field",
+      "field": "allergies",
+      "message": "Allergy information missing or unclear in readable source notes."
+    }
+  ],
+  "unusable_pages": [
+    {
+      "page": 29,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 31,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 32,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 33,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 34,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 36,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 40,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 41,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 62,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 66,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    },
+    {
+      "page": 71,
+      "source_file": "patient_2.pdf",
+      "reason": "OCR or PDF extraction failed.",
+      "warnings": [
+        "OCR returned empty text."
+      ]
+    }
+  ]
+}

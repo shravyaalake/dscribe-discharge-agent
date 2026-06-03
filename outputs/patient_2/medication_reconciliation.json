@@ -1,0 +1,102 @@
+{
+  "status": "completed",
+  "admission_medications_found": 0,
+  "discharge_medications_found": 5,
+  "medication_changes": [
+    {
+      "medication_raw": "| | TAB. RACIPER 40MG | 1-0-0 7 DAYS",
+      "medication_normalized": "RACIPER 40MG 1 0 0 7 DAYS",
+      "change_type": "unable_to_determine",
+      "admission_status": "unknown",
+      "discharge_status": "present",
+      "reason": "Admission medication list not available in readable source notes.",
+      "requires_clinician_review": true,
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "confidence": "low"
+    },
+    {
+      "medication_raw": "TAB, EMESET 3 DAYS",
+      "medication_normalized": "EMESET 3 DAYS",
+      "change_type": "unable_to_determine",
+      "admission_status": "unknown",
+      "discharge_status": "present",
+      "reason": "Admission medication list not available in readable source notes.",
+      "requires_clinician_review": true,
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "confidence": "medium"
+    },
+    {
+      "medication_raw": "= TAB M STRONG J 1-0-0 IS DAYS",
+      "medication_normalized": "M STRONG J 1 0 0 IS DAYS",
+      "change_type": "unable_to_determine",
+      "admission_status": "unknown",
+      "discharge_status": "present",
+      "reason": "Admission medication list not available in readable source notes.",
+      "requires_clinician_review": true,
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "confidence": "medium"
+    },
+    {
+      "medication_raw": "TAB. ENTR¢ ‘10 -] 3 DAYS",
+      "medication_normalized": "ENTR 10 3 DAYS",
+      "change_type": "unable_to_determine",
+      "admission_status": "unknown",
+      "discharge_status": "present",
+      "reason": "Admission medication list not available in readable source notes.",
+      "requires_clinician_review": true,
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "confidence": "low"
+    },
+    {
+      "medication_raw": "Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+      "medication_normalized": "ZZ TAB MEFTAL SPAS ITABSOS 4TABS",
+      "change_type": "unable_to_determine",
+      "admission_status": "unknown",
+      "discharge_status": "present",
+      "reason": "Admission medication list not available in readable source notes.",
+      "requires_clinician_review": true,
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "confidence": "low"
+    }
+  ],
+  "interaction_checks": [
+    {
+      "status": "no_mock_interaction_detected",
+      "message": "No interaction was detected by the mock interaction checker. This is not a real clinical drug-interaction database.",
+      "requires_clinician_review": false
+    }
+  ],
+  "review_flags": [
+    {
+      "type": "admission_medication_list_missing",
+      "message": "Admission medication list was not clearly available. Medication changes cannot be safely classified as added/stopped/changed.",
+      "severity": "high"
+    },
+    {
+      "type": "low_confidence_discharge_medication",
+      "message": "OCR confidence is low for discharge medication: | | TAB. RACIPER 40MG | 1-0-0 7 DAYS",
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "severity": "medium"
+    },
+    {
+      "type": "low_confidence_discharge_medication",
+      "message": "OCR confidence is low for discharge medication: TAB. ENTR¢ ‘10 -] 3 DAYS",
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "severity": "medium"
+    },
+    {
+      "type": "low_confidence_discharge_medication",
+      "message": "OCR confidence is low for discharge medication: Zz TAB. MEFTAL SPAS ITABSOS | 4TABLETS",
+      "source_file": "patient_2.pdf",
+      "page": 2,
+      "severity": "medium"
+    }
+  ]
+}
