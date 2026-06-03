@@ -1,6 +1,6 @@
 # Dscribe Discharge Summary Agent
 
-This project is a take-home assignment for the AI Engineer role at Dscribe. It implements an agentic AI-style workflow that reads messy clinical source-note PDFs and generates a structured discharge summary draft for clinician review.
+This project implements an agentic AI-style workflow that reads messy clinical source-note PDFs and generates a structured discharge summary draft for clinician review.
 
 The system prioritizes clinical safety. It does not invent missing information. Any missing, unclear, pending, or conflicting data is explicitly flagged for clinician review.
 
