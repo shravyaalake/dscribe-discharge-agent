@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Patient source PDFs - keep local
+data/patients/**/*.pdf
+
+# Optional: uncomment if outputs are too large
+# outputs/**/extracted_pages.json
